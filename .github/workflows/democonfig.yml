@@ -1,6 +1,6 @@
 name: first workflow
 
-on: push
+on: pull
 
 jobs: 
     first_jobs:
